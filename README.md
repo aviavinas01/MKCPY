@@ -4,9 +4,9 @@
 
 ```bash
 git clone https://github.com/aviavinas01/MKCPY.git
-cd same
-go build -o same ./cmd/same
-./same --help
+cd MKCPY
+go build -o MKCPY ./cmd/MKCPY
+./MKCPY --help
 ```
 
 ## How does it look?
